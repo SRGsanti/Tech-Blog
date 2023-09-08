@@ -2,6 +2,7 @@
  I will be building a CMS-style blog site similar to a WordPress site.
 
 # Link to Start 
+https://srgsanti.github.io/Tech-Blog/
 
 # User Story
 
